@@ -56,7 +56,7 @@ address:
   - line: Canada
 
 # Credits content
-contact: 'jaishreegaur17@gmail.com'
+credits: 'jaishreegaur17@gmail.com'
 
 # Build settings
 markdown: kramdown
